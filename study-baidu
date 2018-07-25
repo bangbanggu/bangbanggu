@@ -1,0 +1,24 @@
+	
+<body>
+	
+<div style="margin-bottom: 50px;">
+		<h1>我是h1标题</h1>
+		<div style="color:#FFFFFF; width: 600px; height: 50px;background-color: blue; text-align: center;line-height: 50px; font-size: 14px;">这是网页的头部 , 这是一个div
+我给它添加了css的宽高、背景颜色、字体颜色、字体居中、行高             </div>
+      
+</div>
+	
+<div>这是网页的中间内容
+	<div style="width: 600px; height: 400px; background-color: darksalmon; ">大框框
+	
+	<div style="background-color: antiquewhite; width: 250px; height: 250px; margin-left: 30px; margin-top: 70px; float: left;">大框框里的小框框</div>
+	<div style="background-color: antiquewhite; width: 250px; height: 250px; margin-left: 40px;margin-right: 20px; float: left; margin-top: 50px; ">大框框里的小框框</div>
+	</div>
+	
+	<p>最后说一句，我也不知道我写的什么，emmmm...新手代码，看着比较乱</p>	
+</div>
+	
+<div style="width: 600px; height: 50px; background-color: blue; color: #FFFFFF; line-height: 50px; text-align: center;">最后一个是网页的脚部</div>
+	
+	
+</body>
